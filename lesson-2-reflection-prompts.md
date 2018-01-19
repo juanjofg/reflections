@@ -19,6 +19,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+    By giving a visual representation of the branch and its history
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
