@@ -24,5 +24,10 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    We get a combination of the content of the two branches, with changes from both of them.
+    They are represented as different timelines with different parents until they get merged.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+    Git tries to guess what happenend. Usually, let authors manually merge allow them to know or ask others what happen with the files conflicting if any.
