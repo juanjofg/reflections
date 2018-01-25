@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    We could compare differences between both before merging and get conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
